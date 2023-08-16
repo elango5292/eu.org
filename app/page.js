@@ -102,7 +102,7 @@ export default function Home() {
         </div>
         <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                EU.org, free domain names since 1996
+               <u>EU.org,</u> free domain names since 1996
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
                 The main goal of EU.org is to provide free subdomain registration to users or non-profit organizations who cannot afford the fees demanded by some NICs.
