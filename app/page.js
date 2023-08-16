@@ -131,7 +131,7 @@ export default function Home() {
 <section className="relative overflow-hidden bg-transparent px-6 py-12 sm:py-9 lg:px-8">
     <div className="mx-auto max-w-2xl">
         <figure className="mt-10">
-            <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
+            <blockquote className="text-center text-l font-light leading-8 text-gray-900 sm:text-2xl sm:leading-9">
                 <p>
                     “Companies have voted with their feet [on the issue of domains], they want to have domain names that are international or at least country neutral. The same freedom should apply to individuals; all individuals should be able to have and own their own domain names”
                 </p>
@@ -187,7 +187,7 @@ export default function Home() {
 <h2 className="font-semibold leading-7 text-black my-5">Powered by</h2>
 <div className="flex justify-center">
 
-<Carso classNames="w-screen"/>
+<Carso />
 </div>
 </div>
 
