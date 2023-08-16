@@ -187,7 +187,7 @@ export default function Home() {
 <h2 className="font-semibold leading-7 text-black my-5">Powered by</h2>
 <div className="flex justify-center">
 
-<Carso/>
+<Carso classNames="w-screen"/>
 </div>
 </div>
 
