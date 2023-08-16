@@ -169,7 +169,7 @@ export default function Home() {
                                             <feature.icon className="h-6 w-6 text-white" aria-hidden="true" />
                                         </div>
                                         
-                                        {feature.name}
+                                        {feature.name} &#x2197;
                                         </a>
                                     </dt>
                                     <dd className="mt-2 text-base leading-7 text-gray-600">{feature.description}</dd>
